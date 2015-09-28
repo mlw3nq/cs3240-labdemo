@@ -1,6 +1,6 @@
 __author__ = "Mike Wang"
 
-from helper import greeting
+from goodbye import goodbye
 
 if __name__ == "__main__":
-    greeting("hello")
+    goodbye("hello")
