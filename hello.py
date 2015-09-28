@@ -1,6 +1,6 @@
 __author__ = "Mike Wang"
 
-from helper import greeting
+from awkward import awk
 
 if __name__ == "__main__":
-    greeting("hello")
+    awk("hello")
